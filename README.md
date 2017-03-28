@@ -1,7 +1,18 @@
 Ultimate Netstalking Guide
 ==========================
 
-- [Вступление](https://github.com/digital-ghost/ultimate-netstalking-guide/blob/master/about.md)
-- [Сканер портов Nmap](https://github.com/digital-ghost/ultimate-netstalking-guide/blob/master/nmap-guide.md)
-- [Где брать диапазоны IP](https://github.com/digital-ghost/ultimate-netstalking-guide/blob/master/ip-range-guide.md)
-- [Поисковые системы](https://github.com/digital-ghost/ultimate-netstalking-guide/blob/master/search-engine-guide.md)
+# Содержание
+
+- [Вступление](../blob/master/about.md)
+- [Сканер портов Nmap](../blob/master/nmap-guide.md)
+- [Где брать диапазоны IP](../blob/master/ip-range-guide.md)
+- [Поисковые системы](../blob/master/search-engine-guide.md)
+
+# Материалы 
+
+- [Руководство от Trailhead](../blob/master/trailhead-guide.pdf)
+- [Telegram: @netstalking_documents](https://t.me/netstalking_documents)
+
+# Контакты
+
+- [Telegram: @netstalking](https://t.me/netstalking)

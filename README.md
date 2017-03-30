@@ -8,6 +8,7 @@ Ultimate Netstalking Guide
 - [Где брать диапазоны IP](ip-range-guide.md)
 - [Поисковые системы](search-engine-guide.md)
 - [Файлообменники](file-sharing-services.md)
+- [Полезный софт](software.md)
 
 # Материалы 
 
